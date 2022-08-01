@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNet.Domain", "SocialN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNet.Application", "SocialNet.Application\SocialNet.Application.csproj", "{AF830B22-B5AE-4605-A72B-B0E42CB0937A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocailNet.Dal", "SocailNet.Dal\SocailNet.Dal.csproj", "{A9534F5B-13D9-407E-8C48-10FCDCCC63E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNet.Dal", "SocialNet.Dal\SocialNet.Dal.csproj", "{A9534F5B-13D9-407E-8C48-10FCDCCC63E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
